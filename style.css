@@ -1,0 +1,76 @@
+.titulo{
+    background-color: aqua;
+    padding: 20px;
+    text-align: center;
+}
+
+.revolucao{
+    color:pink;
+}
+
+.itcoisa{
+    color:red;
+}
+
+.ouniverso{
+    color: orange;
+}
+
+.bemvindo{
+    padding: 5px;
+    text-align: center;
+}
+
+.links{
+    padding: 5px;
+    text-align: center;
+}
+
+.sugestões{
+    padding: 20px;
+    text-align:center;
+}
+
+.topnav {
+    overflow: hidden;
+    background-color:black;
+  }
+
+  .topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+
+  #imagens {
+    align-items: center;
+    column-count: 3;
+    column-gap: 40px;
+    column-rule-style: solid;
+    column-rule-width: 1px;
+    column-rule-color: black;
+  }
+
+  #imagens div{
+  text-align: center;
+  }
+
+.img{
+  width: 60%;
+  height: 30%;
+}
+ 
+#texts{
+  width: auto;
+  height: 260px;
+  border: 1px solid black;
+  display: flex;
+}
